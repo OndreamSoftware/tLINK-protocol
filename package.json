@@ -1,19 +1,15 @@
 {
-  "name": "eLINK-protocol",
-  "version": "0.0.1",
-  "description": "eLINK protocol smart contracts on Ethereum.",
+  "name": "tLINK-protocol",
+  "version": "1.0.0",
+  "description": "tLINK protocol smart contracts on Ethereum.",
   "keywords": [
     "ethereum",
     "smart-contracts",
     "solidity",
-    "eLINK"
+    "tLINK"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/SavageryOrZen/eLINK-protocol.git"
-  },
   "license": "ISC",
-  "author": "horaciorafaelg30@gmail.com",
+  "author": "elite-dev-1012",
   "scripts": {
     "precommit": "./scripts/pre-commit.sh",
     "coverage": "npx frg-coverage",
